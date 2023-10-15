@@ -1366,8 +1366,8 @@ text-align:left
 .p1{
 	/* align-items: center; */
 	text-align: justify;
-	padding-left:1rem;
-	padding-right:1rem;
+/* 	padding-left:1rem;
+	padding-right:1rem; */
 }
 /* .container.subs{
 	margin-left:20px;
